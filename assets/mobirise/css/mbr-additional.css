@@ -672,6 +672,163 @@ h6,
 .theme-border {
   border: 1px solid #7e9b9f;
 }
+#extProgressBar5-2d img {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  /* For IE8 and earlier */
+}
+#extProgressBar5-2d img:hover {
+  opacity: 1.0;
+  filter: alpha(opacity=100);
+  /* For IE8 and earlier */
+}
+#menu-7 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-7 .navbar-caption {
+  color: #ffffff;
+  font-size: 30px;
+}
+#menu-7 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-7 .close-icon::before,
+#menu-7 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-7 .link,
+#menu-7 .dropdown-item {
+  color: #ffffff;
+}
+#menu-7 .link {
+  font-size: 1rem;
+}
+#menu-7 .dropdown-item,
+#menu-7 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-7 .link:hover,
+#menu-7 .dropdown-item:hover,
+#menu-7 .link:focus,
+#menu-7 .dropdown-item:focus {
+  color: #7e9b9f;
+}
+#menu-7 .link[aria-expanded="true"],
+#menu-7 .dropdown-menu {
+  background: #615753;
+}
+#menu-7 .nav-dropdown-sm .link:focus,
+#menu-7 .nav-dropdown-sm .link:hover,
+#menu-7 .nav-dropdown-sm .dropdown-item:focus,
+#menu-7 .nav-dropdown-sm .dropdown-item:hover {
+  background: #746964!important;
+}
+#menu-7 .navbar,
+#menu-7 .nav-dropdown-sm,
+#menu-7 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-7 .nav-dropdown-sm .dropdown-menu {
+  background: #7c706b;
+}
+#menu-7 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-7 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-7 .bg-color.transparent.opened .link:hover,
+#menu-7 .bg-color.transparent.opened .link:focus {
+  color: #7e9b9f;
+}
+#menu-7 .link[aria-expanded="true"],
+#menu-7 .dropdown-item[aria-expanded="true"] {
+  color: #7e9b9f!important;
+}
+#menu-7 .btn {
+  font-size: 16px;
+}
+#menu-7 .navbar {
+  -webkit-box-shadow: 4px 4px 5px #000000;
+  -moz-box-shadow: 3px 4px 5px #000000;
+  box-shadow: 3px 4px 5px #000000;
+}
+#header3-d .mbr-section-title,
+#header3-d .mbr-section-subtitle {
+  text-align: center;
+}
+#menu-2w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2w .navbar-caption {
+  color: #ffffff;
+  font-size: 30px;
+}
+#menu-2w .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2w .close-icon::before,
+#menu-2w .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-2w .link,
+#menu-2w .dropdown-item {
+  color: #ffffff;
+}
+#menu-2w .link {
+  font-size: 1rem;
+}
+#menu-2w .dropdown-item,
+#menu-2w .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-2w .link:hover,
+#menu-2w .dropdown-item:hover,
+#menu-2w .link:focus,
+#menu-2w .dropdown-item:focus {
+  color: #7e9b9f;
+}
+#menu-2w .link[aria-expanded="true"],
+#menu-2w .dropdown-menu {
+  background: #615753;
+}
+#menu-2w .nav-dropdown-sm .link:focus,
+#menu-2w .nav-dropdown-sm .link:hover,
+#menu-2w .nav-dropdown-sm .dropdown-item:focus,
+#menu-2w .nav-dropdown-sm .dropdown-item:hover {
+  background: #746964!important;
+}
+#menu-2w .navbar,
+#menu-2w .nav-dropdown-sm,
+#menu-2w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2w .nav-dropdown-sm .dropdown-menu {
+  background: #7c706b;
+}
+#menu-2w .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2w .bg-color.transparent.opened .link:hover,
+#menu-2w .bg-color.transparent.opened .link:focus {
+  color: #7e9b9f;
+}
+#menu-2w .link[aria-expanded="true"],
+#menu-2w .dropdown-item[aria-expanded="true"] {
+  color: #7e9b9f!important;
+}
+#menu-2w .btn {
+  font-size: 16px;
+}
+#menu-2w .navbar {
+  -webkit-box-shadow: 4px 4px 5px #000000;
+  -moz-box-shadow: 3px 4px 5px #000000;
+  box-shadow: 3px 4px 5px #000000;
+}
+#form1-2y .form-control-label {
+  color: #232323;
+}
 #extHeader3-22 {
   
 }
@@ -816,179 +973,6 @@ h6,
   color: #fff;
 }
 #social-buttons3-6 .btn-social {
-  color: #fff;
-  -webkit-box-shadow: 0 0 10px rgba(65, 65, 65, 0.65);
-  -moz-box-shadow: 0 0 10px rgba(65, 65, 65, 0.65);
-  box-shadow: 0 0 10px rgba(65, 65, 65, 0.65);
-}
-#extProgressBar5-2d img {
-  opacity: 0.5;
-  filter: alpha(opacity=50);
-  /* For IE8 and earlier */
-}
-#extProgressBar5-2d img:hover {
-  opacity: 1.0;
-  filter: alpha(opacity=100);
-  /* For IE8 and earlier */
-}
-#menu-7 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-7 .navbar-caption {
-  color: #ffffff;
-  font-size: 30px;
-}
-#menu-7 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-7 .close-icon::before,
-#menu-7 .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-7 .link,
-#menu-7 .dropdown-item {
-  color: #ffffff;
-}
-#menu-7 .link {
-  font-size: 1rem;
-}
-#menu-7 .dropdown-item,
-#menu-7 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
-}
-#menu-7 .link:hover,
-#menu-7 .dropdown-item:hover,
-#menu-7 .link:focus,
-#menu-7 .dropdown-item:focus {
-  color: #7e9b9f;
-}
-#menu-7 .link[aria-expanded="true"],
-#menu-7 .dropdown-menu {
-  background: #615753;
-}
-#menu-7 .nav-dropdown-sm .link:focus,
-#menu-7 .nav-dropdown-sm .link:hover,
-#menu-7 .nav-dropdown-sm .dropdown-item:focus,
-#menu-7 .nav-dropdown-sm .dropdown-item:hover {
-  background: #746964!important;
-}
-#menu-7 .navbar,
-#menu-7 .nav-dropdown-sm,
-#menu-7 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-7 .nav-dropdown-sm .dropdown-menu {
-  background: #7c706b;
-}
-#menu-7 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-7 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-7 .bg-color.transparent.opened .link:hover,
-#menu-7 .bg-color.transparent.opened .link:focus {
-  color: #7e9b9f;
-}
-#menu-7 .link[aria-expanded="true"],
-#menu-7 .dropdown-item[aria-expanded="true"] {
-  color: #7e9b9f!important;
-}
-#menu-7 .btn {
-  font-size: 16px;
-}
-#menu-7 .navbar {
-  -webkit-box-shadow: 4px 4px 5px #000000;
-  -moz-box-shadow: 3px 4px 5px #000000;
-  box-shadow: 3px 4px 5px #000000;
-}
-#header3-d .mbr-section-title,
-#header3-d .mbr-section-subtitle {
-  text-align: center;
-}
-#menu-j .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-j .navbar-caption {
-  color: #ffffff;
-  font-size: 30px;
-}
-#menu-j .navbar-toggler {
-  color: #ffffff;
-}
-#menu-j .close-icon::before,
-#menu-j .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-j .link,
-#menu-j .dropdown-item {
-  color: #ffffff;
-}
-#menu-j .link {
-  font-size: 1rem;
-}
-#menu-j .dropdown-item,
-#menu-j .nav-dropdown-sm .link {
-  font-size: 1.083rem;
-}
-#menu-j .link:hover,
-#menu-j .dropdown-item:hover,
-#menu-j .link:focus,
-#menu-j .dropdown-item:focus {
-  color: #7e9b9f;
-}
-#menu-j .link[aria-expanded="true"],
-#menu-j .dropdown-menu {
-  background: #615753;
-}
-#menu-j .nav-dropdown-sm .link:focus,
-#menu-j .nav-dropdown-sm .link:hover,
-#menu-j .nav-dropdown-sm .dropdown-item:focus,
-#menu-j .nav-dropdown-sm .dropdown-item:hover {
-  background: #746964!important;
-}
-#menu-j .navbar,
-#menu-j .nav-dropdown-sm,
-#menu-j .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-j .nav-dropdown-sm .dropdown-menu {
-  background: #7c706b;
-}
-#menu-j .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-j .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-j .bg-color.transparent.opened .link:hover,
-#menu-j .bg-color.transparent.opened .link:focus {
-  color: #7e9b9f;
-}
-#menu-j .link[aria-expanded="true"],
-#menu-j .dropdown-item[aria-expanded="true"] {
-  color: #7e9b9f!important;
-}
-#menu-j .btn {
-  font-size: 16px;
-}
-#menu-j .navbar {
-  -webkit-box-shadow: 4px 4px 5px #000000;
-  -moz-box-shadow: 3px 4px 5px #000000;
-  box-shadow: 3px 4px 5px #000000;
-}
-#form1-p .form-control-label {
-  color: #232323;
-}
-#form1-p .form-control-label {
-  color: #232323;
-}
-#form1-p .btn:hover {
-  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
-}
-#social-buttons3-2k .mbr-section-title,
-#social-buttons3-2k .btn-social {
-  color: #fff;
-}
-#social-buttons3-2k .btn-social {
   color: #fff;
   -webkit-box-shadow: 0 0 10px rgba(65, 65, 65, 0.65);
   -moz-box-shadow: 0 0 10px rgba(65, 65, 65, 0.65);
