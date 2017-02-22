@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Créations Web",
-    "currentPage": "index.html",
+    "currentPage": "contact..html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -410,7 +410,7 @@
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-30",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -426,7 +426,12 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "PARTAGEZ CETTE PAGE!",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -436,9 +441,10 @@
           "_anchor": "map1-2z",
           "_params": {
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "j7e5m3",
+              "placeId": "ChIJ91n3YXwoyUwRPAfNtoWDC_U",
+              "state": "ok",
+              "stateDetails": ""
             }
           }
         }
