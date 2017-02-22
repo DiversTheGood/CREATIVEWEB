@@ -1,0 +1,982 @@
+{
+  "settings": {
+    "name": "Créations Web",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#7e9b9f",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#7c706b",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 104,
+    "versionPublish": "3.12.1",
+    "mcShopcart": {
+      "email": "divers-666@hotmail.com"
+    }
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "ACCUEIL",
+        "meta_descr": "Création de site web. D'un petit site d'une seule page allant jusqu'aux nombre de page que vous voulez. Nous travaillons aussi avec Wordpress.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader3",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "showIcons": false,
+            "iconsColor": "#ffffff",
+            "showTitles": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader3-bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<br><span style=\"line-height: 1.1;\">CRÉATIVE WEB</span><br>",
+          "text": "<span style=\"line-height: 1.5;\">Full-screen intro with background image, color overlay and icons. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PLUS</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title1": "Multi Layouts",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title2": "Creative Idea",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title3": "Target Buyers",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title4": "Reach Top",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extHeader3 mbr-parallax-background mbr-after-navbar\" style=\"background-image: url(@PROJECT_PATH@/assets/images/img-extheader3-bg.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(0, 0, 0);\">\n\n    </div>\n        <div class=\"mbr-table-cell\">\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div>\n                            <h3 class=\"mbr-section-title display-2 text-center mbr-editable-content\" code-editable-id=\"16\"><br><span style=\"line-height: 1.1;\">CRÉATIVE WEB</span><br></h3>\n\n                            <div class=\"mbr-section-text lead text-center\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"17\"><span style=\"line-height: 1.5;\">Full-screen intro with background image, color overlay and icons. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.</span><br></p>\n                            </div>\n\n                            <div class=\"mbr-section-btn text-center\"><a class=\"btn btn-primary mbr-editable-button\" href=\"index.html#pricing-table2-i\" code-editable-id=\"18\">PLUS</a></div>\n\n                    </div>\n\n                    <div class=\"container\">\n                        <div class=\"row\">\n                            \n                            <ul class=\"features-list\">\n                                <li>\n                                    \n                                    \n                                </li>\n\n                                <li>\n                                    \n                                    \n                                </li>\n\n                                 <li>\n                                    \n                                    \n                                </li>\n\n                                <li>\n                                    \n                                    \n                                </li>\n                            </ul>\n\n                        </div>\n                    </div>\n\n                </div> \n            </div> \n        </div>\n        <div class=\"mbr-arrow mbr-arrow-floating hidden-sm-down\" aria-hidden=\"true\"><a href=\"#extFeatures14-1z\"><i class=\"mbr-arrow-icon\"></i></a></div>              \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\nH3 {\n\tcolor: #ffffff;\n}\n.etl-icon {\n\tcolor: #ffffff !important;\n\tborder-color: #ffffff;\n}\n.features-list i {\n\tcolor: #ffffff !important;\n\tborder-color: #ffffff;\n}\n\n.btn:hover {\n    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);\n}\n\n\n",
+          "_customTemplate": true,
+          "_anchor": "extHeader3-22"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures14",
+          "_styles": {
+            ".card-subtitle DIV": {
+              "color": "#000000"
+            },
+            ".card-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "extFeatures14-1z",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showBgTitle": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "background1": "1",
+          "title1": "Bootstrap 4",
+          "subtitle1": "<br>Bootstrap 4 à été noté",
+          "caption1": "Bootstrap 4 a été noté comme l'un des cadres les plus fiables et les plus éprouvés et CRÉATIVE WEB est équipé pour développer des sites Web utilisant ce cadre.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background2": "2",
+          "title2": "Réactif",
+          "subtitle2": "<span style=\"font-size: 0.875rem; line-height: 1.7857; background-color: transparent; color: rgb(0, 0, 0);\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.7857; background-color: transparent; color: rgb(0, 0, 0);\">Un des 4 points majeurs de Bootstrap</span><br>",
+          "caption2": "Le premier cadre mobile le plus puissant. Maintenant, même si vous n'êtes pas averti, vous pouvez faire partie d'une communauté de bootstrap en plein essor.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background3": "3",
+          "title3": "Polices Web",
+          "subtitle3": "<br>Google a une liste très exhaustive de polices",
+          "caption3": "Google a une liste très exhaustive de polices compilées dans sa plate-forme de polices Web. Il est facile pour vous de choisir celle qui vous conviendra le mieux.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background4": "4",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "NOS PRIX<br>",
+          "subtitle": "Comme on dit, rien n'est coulé dans le béton. Il y a toujours matière à discuter. <br>Nos prix sont approximatif alors dite nous comment vous aimeriez payer pour votre site Web.<br><br>Voilà!<br>",
+          "label1": "HOT!",
+          "title1": "PETIT SITE",
+          "subtitle1": "Une page",
+          "currency1": "",
+          "price1": "300/$",
+          "period1": "",
+          "description1": "Entre 200$ et 400$ la page.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Sites dynamique</li><li class=\"list-group-item\">Completement responsive</li><li class=\"list-group-item\">Ils s'adaptent à toutes les grandeurs d'écrans</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label2": "HOT!",
+          "title2": "MOYEN SITE",
+          "subtitle2": "Une page et plus",
+          "currency2": "",
+          "price2": "400",
+          "period2": "/$",
+          "description2": "À partir de 400$",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Sites dynamique</li><li class=\"list-group-item\">Entièrement réactifs et mobiles&nbsp;</li><li class=\"list-group-item\">Ils s'adaptent à toutes les grandeurs d'écrans</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "SITE WORDPRESS",
+          "subtitle3": "Site complet créé comme vous le voulez.",
+          "currency3": "",
+          "price3": "$PRIX À DISCUTER",
+          "period3": "",
+          "description3": "Plus de détails à venir",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Des sites Web entièrement réactifs et mobiles&nbsp;</li><li class=\"list-group-item\">prêt à l'emploi et qui s'adaptent sur tout les</li><li class=\"list-group-item\">appareils et navigateurs</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "Description",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "/mo.",
+          "description4": "More details",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"138\">NOS PRIX<br></h3>\n                  <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"139\">Comme on dit, rien n'est coulé dans le béton. Il y a toujours matière à discuter. <br>Nos prix sont approximatif alors dite nous comment vous aimeriez payer pour votre site Web.<br><br>Voilà!<br></small>\n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"140\">PETIT SITE</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"141\">Une page</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"142\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"143\">300/$</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"144\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"145\">Entre 200$ et 400$ la page.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"146\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Sites dynamique</li><li class=\"list-group-item\">Completement responsive</li><li class=\"list-group-item\">Ils s'adaptent à toutes les grandeurs d'écrans</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block bg-primary\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" code-editable-id=\"147\">HOT!</div>\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"148\">MOYEN SITE</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"149\">Une page et plus</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"150\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"151\">400</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"152\">/$</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"153\">À partir de 400$</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"154\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Sites dynamique</li><li class=\"list-group-item\">Entièrement réactifs et mobiles&nbsp;</li><li class=\"list-group-item\">Ils s'adaptent à toutes les grandeurs d'écrans</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"155\">SITE WORDPRESS</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"156\">Site complet créé comme vous le voulez.</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"157\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"158\">$PRIX À DISCUTER</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"159\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"160\">Plus de détails à venir</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"161\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Des sites Web entièrement réactifs et mobiles&nbsp;</li><li class=\"list-group-item\">prêt à l'emploi et qui s'adaptent sur tout les</li><li class=\"list-group-item\">appareils et navigateurs</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            \n          </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-plan-header, .mbr-plan-body {\n\tbackground-color: #f4f4f4;\n}\nul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term {\n\tcolor: #28262b;\n}\n.mbr-plan {\nborder-color: #e8e8e8;\n-webkit-box-shadow: 0 0 20px rgba(0,0,0, .65);\n-moz-box-shadow: 0 0 20px rgba(0,0,0, .65);\nbox-shadow: 0 0 20px rgba(0,0,0, .65);\n}\n\n.mbr-plan .list-group-item {\n\tborder-color: #cfcfcf;\n    \n}\n.mbr-price-figure {\n\tfont-size: 36px;\n}\n.mbr-plan-price-desc {\n\tfont-size: 24px;\n}\n.mbr-section__container .mbr-section-subtitle {\n\tcolor: #000000;\n}\n.mbr-section__container .mbr-section-title {\n\tfont-size: 46px;\n}\n.mbr-plan-title {\n\tfont-size: 15px;\n}\n.mbr-plan-subtitle {\n\tfont-size: 14px;\n}\n\n \n",
+          "_customTemplate": true,
+          "_anchor": "pricing-table2-i"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#7c706b",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRÉATIVE WEB</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ACCUEIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"apropos.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        \n                        <a class=\"navbar-caption text-primary\" href=\"index.html\">CRÉATIVE WEB</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"31\">ACCUEIL</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"apropos.html\" code-editable-id=\"32\">À PROPOS</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"contacts.html\" code-editable-id=\"33\">CONTACTS</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n\tfont-size: 30px;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n}\n.link {\n\tfont-size: 1rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 1.083rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #7e9b9f;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #615753;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #746964!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #7c706b;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #7e9b9f;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #7e9b9f!important;\n}\n.btn {\n\tfont-size: 16px;\n}\n\n.navbar{ \n-webkit-box-shadow: 4px 4px 5px #000000;\n-moz-box-shadow: 3px 4px 5px #000000;\nbox-shadow: 3px 4px 5px #000000;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": 3,
+            "iconsBgColor": "@infoColor",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#fff",
+            "containerColor2": "#f5f5f5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#616161",
+            "overlayOpacity": 0.8
+          },
+          "title": "Features with Gradient Background",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "mobirise",
+              "link": "https://mobirise.com",
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "What is Mobirise",
+          "subtitle1": "Awesome",
+          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "What is Mobirise",
+          "subtitle2": "Awesome",
+          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features22",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "background": "@infoColor",
+              "border-color": "@infoColor"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.85
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number1": "<p>1</p>",
+          "title1": "What is Mobirise",
+          "subtitle1": "Awesome",
+          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number2": "<p>2</p>",
+          "title2": "What is Mobirise",
+          "subtitle2": "Awesome",
+          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number3": "<p>3</p>",
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number4": "<p>4</p>",
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features12",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "PARTAGEZ CETTE PAGE!",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding\" style=\"background-color: rgb(124, 112, 107); padding-top: 90px; padding-bottom: 90px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"51\">PARTAGEZ CETTE PAGE!</h3>\n                <div>\n\n                  <div class=\"mbr-social-likes\" data-counters=\"false\">\n                    <span class=\"btn btn-social facebook\" title=\"Share link on Facebook\">\n                        <i class=\"socicon socicon-facebook\"></i>\n                    </span>\n                    <span class=\"btn btn-social twitter\" title=\"Share link on Twitter\">\n                        <i class=\"socicon socicon-twitter\"></i>\n                    </span>\n                    <span class=\"btn btn-social plusone\" title=\"Share link on Google+\">\n                        <i class=\"socicon socicon-googleplus\"></i>\n                    </span>\n                    \n                    \n                  </div>\n\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, .btn-social {\n\tcolor: #fff;\n }   \n\n .btn-social {\n\tcolor: #fff;\n  -webkit-box-shadow: 0 0 10px rgba(65,65,65, .65);\n-moz-box-shadow: 0 0 10px rgba(65,65,65, .65);\nbox-shadow: 0 0 10px rgba(65,65,65, .65);\n}\n\n\n\n",
+          "_customTemplate": true,
+          "_anchor": "social-buttons3-6"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 CRÉATION WEB."
+        }
+      ]
+    },
+    "apropos.html": {
+      "settings": {
+        "title": "À PROPOS",
+        "meta_descr": "À PROPOS de moi. Je suis un concepteur de sites Web à ses temps libre. "
+      },
+      "components": [
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar5",
+          "_params": {
+            "showTitle": true,
+            "inverse": true,
+            "stripedBars": false,
+            "progress1": "100",
+            "progress2": "50",
+            "progress3": "70",
+            "progress4": 70,
+            "imageSize": "41",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/img-extprogressbar5.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "active": false,
+              "size": 0,
+              "class": "mbr-iconfont mbr-iconfont-header2 ",
+              "color": "@primaryColor"
+            }
+          },
+          "title": "Nous progressons&nbsp;",
+          "title1": "HTML5/CSS3",
+          "title2": "BOOTSTRAP",
+          "title3": "WORDPRESS",
+          "title4": "Photography",
+          "_customHTML": "<section class=\"mbr-section extProgressBar5 mbr-after-navbar\" style=\"background-color: rgb(239, 239, 239); padding-top: 80px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"mbr-section row\" style=\"padding-top: 80px; padding-bottom: 40px;\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        <div class=\"mbr-table-cell mbr-valign-top col-md-6 image-size\">\n                            <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/img-extprogressbar5.jpg\" class=\"central-image\"></div>\n                        </div>\n\n                        <div class=\"mbr-table-cell col-md-6 text-md-left content-size\" style=\"width: 59%;\">\n                          <div class=\"container\">\n                              <div class=\"row\">\n                                <h2 class=\"display-2 h-black mbr-editable-content\" code-editable-id=\"41\">Nous progressons&nbsp;</h2>\n\n                                <div class=\"col-md-12\">\n                                    <div class=\"progress1\">\n                                        <div class=\"title-wrap\">\n                                            <div class=\"progressbar-title\">\n                                                <p class=\"mbr-editable-content\" code-editable-id=\"42\">HTML5/CSS3</p>\n                                            </div>\n                                            <div class=\"progressbar-number\">100</div>\n                                            <span>%</span>\n                                        </div>\n                                        <progress class=\"progress progress-primary\" max=\"100\" value=\"100\">\n                                        </progress>\n                                    </div>\n\n                                    <div class=\"progress2\">\n                                        <div class=\"title-wrap\">\n                                            <div class=\"progressbar-title\">\n                                                <p class=\"mbr-editable-content\" code-editable-id=\"43\">BOOTSTRAP</p>\n                                            </div>\n                                            <div class=\"progressbar-number\">50</div>\n                                            <span>%</span>\n                                        </div>\n                                        <progress class=\"progress progress-primary\" max=\"100\" value=\"50\">\n                                        </progress>\n                                    </div>\n\n                                    <div class=\"progress3\">\n                                        <div class=\"title-wrap\">\n                                            <div class=\"progressbar-title\">\n                                                <p class=\"mbr-editable-content\" code-editable-id=\"44\">WORDPRESS</p>\n                                            </div>\n                                            <div class=\"progressbar-number\">70</div>\n                                            <span>%</span>\n                                        </div>\n                                        <progress class=\"progress progress-primary\" max=\"100\" value=\"70\">\n                                        </progress>\n                                    </div>\n\n                                    <div class=\"progress4\">\n                                        <div class=\"title-wrap\">\n                                            <div class=\"progressbar-title\">\n                                                <p class=\"mbr-editable-content\" code-editable-id=\"45\">Photography</p>\n                                            </div>\n                                            <div class=\"progressbar-number\">70</div>\n                                            <span>%</span>\n                                        </div>\n                                        <progress class=\"progress progress-primary\" max=\"100\" value=\"70\">\n                                        </progress>\n                                    </div>\n                                </div>\n                              </div>\n                            </div>  \n                        </div>\n                    \n                        <!-- & -->\n\n                            \n                        \n                    </div>\n\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "img {\n    opacity: 0.5;\n    filter: alpha(opacity=50); /* For IE8 and earlier */\n}\n\nimg:hover {\n    opacity: 1.0;\n    filter: alpha(opacity=100); /* For IE8 and earlier */\n}",
+          "_customTemplate": true,
+          "_anchor": "extProgressBar5-2d"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#7c706b",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRÉATIVE WEB</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ACCUEIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"apropos.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n\tfont-size: 30px;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n}\n.link {\n\tfont-size: 1rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 1.083rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #7e9b9f;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #615753;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #746964!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #7c706b;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #7e9b9f;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #7e9b9f!important;\n}\n.btn {\n\tfont-size: 16px;\n}\n\n.navbar{ \n-webkit-box-shadow: 4px 4px 5px #000000;\n-moz-box-shadow: 3px 4px 5px #000000;\nbox-shadow: 3px 4px 5px #000000;\n}\n",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        \n                        <a class=\"navbar-caption text-primary\" href=\"index.html\">CRÉATIVE WEB</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"37\">ACCUEIL</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"apropos.html\" code-editable-id=\"38\">À PROPOS</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"contacts.html\" code-editable-id=\"39\">CONTACTS</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "menu-7"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              }
+            ],
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/flight-mountains-sky-flying.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showBullets": true,
+            "visibleSlides": "5",
+            "showArrows": true
+          },
+          "_anchor": "extTestimonials5-2v",
+          "title": "NOS CLIENTS",
+          "subtitle": "\"Nos clients\" carrousel avec nombre réglable de clients visibles."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-d",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Concepteur à temps partiel",
+          "meta": "Je confectionne des sites Web pour le plaisir.&nbsp;<br>J'aime les belles images, j'aime les couleurs et lorsque le tout est réuni, le résultat donne quelque chose d'intéressant.&nbsp;<br><br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-l",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 CRÉATION WEB."
+        }
+      ]
+    },
+    "contacts.html": {
+      "settings": {
+        "title": "CONTACTS",
+        "meta_descr": "Écrivez nous et dite nous ce que vous en pensez."
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#7c706b",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CRÉATIVE WEB</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ACCUEIL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"apropos.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        \n                        <a class=\"navbar-caption text-primary\" href=\"index.html\">CRÉATIVE WEB</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"43\">ACCUEIL</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"apropos.html\" code-editable-id=\"44\">À PROPOS</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"contacts.html\" code-editable-id=\"45\">CONTACTS</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n\tfont-size: 30px;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n}\n.link {\n\tfont-size: 1rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 1.083rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #7e9b9f;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #615753;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #746964!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #7c706b;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #7e9b9f;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #7e9b9f!important;\n}\n.btn {\n\tfont-size: 16px;\n}\n\n.navbar{ \n-webkit-box-shadow: 4px 4px 5px #000000;\n-moz-box-shadow: 3px 4px 5px #000000;\nbox-shadow: 3px 4px 5px #000000;\n}",
+          "_customTemplate": true,
+          "_anchor": "menu-j"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-l",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 CRÉATION WEB."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FORMULAIRE DE CONTACT",
+          "subtitle": "Formez votre futur projet web avec un design pointu et affiner.",
+          "form": {
+            "action": "divers-666@hotmail.com",
+            "alerts": {
+              "success": "Merci pour votre message"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Téléphone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEZ NOUS</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-after-navbar\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;\">\n    \n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"106\">FORMULAIRE DE CONTACT</h3>\n                    <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"107\">Formez votre futur projet web avec un design pointu et affiner.</small>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\" data-form-type=\"formoid\">\n\n\n                    <div data-form-alert=\"true\">\n                        <div hidden=\"\" data-form-alert-success=\"true\" class=\"alert alert-form alert-success text-xs-center\">Merci pour votre message</div>\n                    </div>\n\n\n                    <form action=\"\" method=\"post\" data-form-title=\"FORMULAIRE DE CONTACT\">\n\n                        <input type=\"hidden\" value=\"1PsJYee2uVeDdNTplDUX/x+5XmwaVs8YPQ9wU724wJ1l+KNV+8PECRmlEiYRe9UVSlB/fqYvZlcy8Ch+jybkXWtUMJ7u0etFFfpvqAC8UvdBYPs8UEfuPsc2Gq7k3Sjx\" data-form-email=\"true\">\n\n                        <div class=\"row row-sm-offset\">\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form1-p-name\">Nom<span class=\"form-asterisk\">*</span></label>\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" required=\"\" data-form-field=\"Name\" id=\"form1-p-name\">\n                                </div>\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form1-p-email\">Email<span class=\"form-asterisk\">*</span></label>\n                                    <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" data-form-field=\"Email\" id=\"form1-p-email\">\n                                </div>\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-4\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\" for=\"form1-p-phone\">Téléphone</label>\n                                    <input type=\"tel\" class=\"form-control\" name=\"phone\" data-form-field=\"Phone\" id=\"form1-p-phone\">\n                                </div>\n                            </div>\n\n                        </div>\n\n                        <div class=\"form-group\">\n                            <label class=\"form-control-label\" for=\"form1-p-message\">Message</label>\n                            <textarea class=\"form-control\" name=\"message\" rows=\"7\" data-form-field=\"Message\" id=\"form1-p-message\"></textarea>\n                        </div>\n\n                        <div><button type=\"submit\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"108\">CONTACTEZ NOUS</button></div>\n\n                    </form>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".form-control-label {\n\tcolor: #232323;\n}\n\n.btn:hover {\n    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-p"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "PARTAGEZ CETTE PAGE!",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding\" style=\"background-color: rgb(124, 112, 107); padding-top: 90px; padding-bottom: 90px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"109\">PARTAGEZ CETTE PAGE!</h3>\n                <div>\n\n                  <div class=\"mbr-social-likes\" data-counters=\"false\">\n                    <span class=\"btn btn-social facebook\" title=\"Share link on Facebook\">\n                        <i class=\"socicon socicon-facebook\"></i>\n                    </span>\n                    <span class=\"btn btn-social twitter\" title=\"Share link on Twitter\">\n                        <i class=\"socicon socicon-twitter\"></i>\n                    </span>\n                    <span class=\"btn btn-social plusone\" title=\"Share link on Google+\">\n                        <i class=\"socicon socicon-googleplus\"></i>\n                    </span>\n                    \n                    \n                  </div>\n\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, .btn-social {\n\tcolor: #fff;\n}\n\n .btn-social {\n\tcolor: #fff;\n  -webkit-box-shadow: 0 0 10px rgba(65,65,65, .65);\n-moz-box-shadow: 0 0 10px rgba(65,65,65, .65);\nbox-shadow: 0 0 10px rgba(65,65,65, .65);\n}\n",
+          "_customTemplate": true,
+          "_anchor": "social-buttons3-2k"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding\">\n    <div class=\"mbr-map\"><iframe frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?key=AIzaSyA0Dx_boXQiwvdz8sJHoYeZNVTdoWONYkU&amp;q=place_id:ChIJn6wOs6lZwokRLKy1iqRcoKw\" allowfullscreen=\"\"></iframe></div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "map1-25"
+        }
+      ]
+    }
+  }
+}
